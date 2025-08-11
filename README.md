@@ -31,5 +31,11 @@ npm install
 To run the script use the command:
 
 ```bash
+npm run start
+```
+
+Alternatively you can run the script directly through:
+
+```bash
 node order-check.js
 ```
